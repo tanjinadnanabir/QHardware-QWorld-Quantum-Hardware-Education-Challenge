@@ -19,7 +19,7 @@ QHardware is a tutorial series based on quantum hardware resources for instance 
 
 Chapters  
 
-1. Basics of Quantum Computing  
+1. Basics of Quantum Computing [a relative link](other_file.md)  
 2. Quantum Hardware  
 3. Basics of Superconducting Qubits  
 4. How Superconducting Qubits are Designed  
