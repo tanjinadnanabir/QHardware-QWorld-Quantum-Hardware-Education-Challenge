@@ -3,9 +3,11 @@ Womanium Quantum Hackathon 2022
 
 Team Name: Q-bits  
 
-Team Member, Leader and Pitch Presenter: Tanjin Adnan Abir  
+Team Member: Tanjin Adnan Abir  
 
 Discord: tanjinadnanabir#6069 | GitHub: tanjinadnanabir | Email: tanjinadnanabir@gmail.com  
+
+Pitch Presenter: Tanjin Adnan Abir  
 
 Name of the Challenge: Quantum Hardware Education Challenge by QWorld  
 
@@ -25,5 +27,5 @@ Chapters
 
 Quiz
 
-1. Intro to QC  [slide]  
-2. QC Hardware  [slide]  
+1. Intro to QC  [quiz-link](https://github.com/tanjinadnanabir/QHardware-QWorld-Quantum-Hardware-Education-Challenge/blob/main/quiz/quiz-qc-intro.pdf)  
+2. QC Hardware  [quiz-link](https://github.com/tanjinadnanabir/QHardware-QWorld-Quantum-Hardware-Education-Challenge/blob/main/quiz/quiz-qc-hardware.pdf)   
