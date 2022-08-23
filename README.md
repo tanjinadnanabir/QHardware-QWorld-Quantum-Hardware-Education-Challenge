@@ -19,8 +19,8 @@ QHardware is a tutorial series based on quantum hardware resources for instance 
 
 Chapters  
 
-1. Basics of Quantum Computing  
-2. Quantum Hardware  
-3. Basics of Superconducting Qubits  
-4. How Superconducting Qubits are Designed  
-5. Superconducting Quantum Computer Design  
+1. Introduction to Quantum Computing  [I'm an inline-style link](https://www.google.com)  
+2. Introduction to Quantum Hardware  
+3. Introduction to Superconducting Qubits  
+4. Superconducting Quantum Computer Design  
+5. Superconducting QC Design with Qiskit Metal  
