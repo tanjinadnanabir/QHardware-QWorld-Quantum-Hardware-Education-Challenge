@@ -25,5 +25,5 @@ Chapters
 
 Quiz
 
-1. Intro to QC  [slide]  
-2. QC Hardware  [slide]  
+1. Intro to QC  [quiz-link](https://github.com/tanjinadnanabir/QHardware-QWorld-Quantum-Hardware-Education-Challenge/blob/main/quiz/quiz-qc-intro.pdf)  
+2. QC Hardware  [quiz-link](https://github.com/tanjinadnanabir/QHardware-QWorld-Quantum-Hardware-Education-Challenge/blob/main/quiz/quiz-qc-hardware.pdf)   
