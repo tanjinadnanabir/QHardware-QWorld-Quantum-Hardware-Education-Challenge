@@ -19,11 +19,11 @@ QHardware is a tutorial series based on quantum hardware resources for instance 
 
 Chapters  
 
-1. Introduction to Quantum Computing  [slide](https://github.com/tanjinadnanabir/QHardware-QWorld-Quantum-Hardware-Education-Challenge/blob/main/Lecture%20Slides/CH-1%20Basics%20of%20Quantum%20Computing.pptx)  
-2. Introduction to Quantum Hardware  [slide]  
-3. Introduction to Superconducting Qubits  [slide]  
-4. Superconducting Quantum Computer Design  [slide]  
-5. Superconducting QC Design with Qiskit Metal  [slide]  
+1. Introduction to Quantum Computing  [slide](https://github.com/tanjinadnanabir/QHardware-QWorld-Quantum-Hardware-Education-Challenge/blob/main/lectures/CH-1%20Introduction%20to%20Quantum%20Computing.pdf)  
+2. Introduction to Quantum Hardware  [slide](https://github.com/tanjinadnanabir/QHardware-QWorld-Quantum-Hardware-Education-Challenge/blob/main/lectures/CH-2%20Introduction%20to%20Quantum%20Hardware.pdf)  
+3. Introduction to Superconducting Qubits  [slide](https://github.com/tanjinadnanabir/QHardware-QWorld-Quantum-Hardware-Education-Challenge/blob/main/lectures/CH-3%20Introduction%20to%20Superconducting%20Qubits.pdf)  
+4. Superconducting Quantum Computer Design  [slide](https://github.com/tanjinadnanabir/QHardware-QWorld-Quantum-Hardware-Education-Challenge/blob/main/lectures/CH-4%20Superconducting%20Quantum%20Computer%20Design.pdf)  
+5. Superconducting QC Design with Qiskit Metal  [slide](https://github.com/tanjinadnanabir/QHardware-QWorld-Quantum-Hardware-Education-Challenge/blob/main/lectures/CH-5%20Superconducting%20QC%20Design%20with%20Qiskit%20Metal.pdf)  
 
 Quiz
 
