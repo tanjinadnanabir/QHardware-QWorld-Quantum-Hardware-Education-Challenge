@@ -3,9 +3,7 @@ Womanium Quantum Hackathon 2022
 
 Team Name: Q-bits  
 
-Team Member and Leader  
-
-Tanjin Adnan Abir  
+Team Member, Leader and Pitch Presenter: Tanjin Adnan Abir  
 
 Discord: tanjinadnanabir#6069 | GitHub: tanjinadnanabir | Email: tanjinadnanabir@gmail.com  
 
